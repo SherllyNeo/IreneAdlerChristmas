@@ -1,4 +1,4 @@
-const PASSWORD = "058"
+const PASSWORD = "052"
 
 function checkWin() {
     var userGuess = document.getElementById('passbox').value;
